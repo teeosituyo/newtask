@@ -1,7 +1,7 @@
 name: shell commands
 
 on: 
-  -push
+  - push
   
 
 jobs:
